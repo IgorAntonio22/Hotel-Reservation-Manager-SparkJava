@@ -1,4 +1,4 @@
-# HotelReservationManager
+# Hotel Reservation Manager
 
 ## About the Project
 
